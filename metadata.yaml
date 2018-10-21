@@ -1,5 +1,5 @@
 _repo: The-Canterbury-Tales-and-Other-Poems_2383
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -78,6 +78,7 @@ subjects:
 - !lcsh 'Christian pilgrims and pilgrimages -- Poetry'
 - !lcsh 'Chaucer, Geoffrey, -1400'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Life of Chaucer -- The Canterbury Tales -- The Court of Love -- The
   Cuckoo and The Nightingale -- The Assembly of Fowls -- The Flower and The Leaf --
   The House of Fame -- Troilus and Cressida -- Chaucer's Dream -- The Prologue To
